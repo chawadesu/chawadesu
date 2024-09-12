@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chawanee</h1>
 <h3 align="center">A life long learner from Bangkok,Thailand</h3>
 
-- 🔭 I’m currently working on **Stock Prediction using Deep Learning techniques**
 
-- 🌱 I’m currently learning **NLP, Deep Learning, and Network**
-
-- 📝 I regularly write articles on study abroad and vision care
 
 - 📫 How to reach me **chawanee.sun@gmail.com**
 
