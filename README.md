@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **chawanee.sun@gmail.com**
 
-- ⚡ Fun fact: **I am 100% germ freak**
+- ⚡ Fun fact: **I'm a Sub2 HYROX solo finisher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
